@@ -2,7 +2,7 @@ import sys, os, pyodbc, configparser, winsound
 from collections import deque
 from datetime import datetime
 
-progName = 'Serial Scanner 40000 - Unreleased'
+progName = 'Serial Scanner'
 ver = '1.3.0'
 
 #find config file
